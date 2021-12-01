@@ -1,7 +1,7 @@
 # chat_DarkWeb
 
-ce script a été réalisé par moi-même
+ce script a été réalisé par moi-même Fédéral_35#8659
 
-chat_DarkWeb pour fivem est payant 5£ 
+chat_DarkWeb et pour fivem il et payant 5£ 
 
-pour accéder il faut un code
+pour accéder au fichier il faut un code
