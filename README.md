@@ -1,4 +1,4 @@
-# chat_DarkWeb
+# chat_DarkWeb FR
 
 ce script a été réalisé par moi-même Fédéral_35#8659
 
